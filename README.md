@@ -45,7 +45,7 @@ This is how to \*scape\* markdown
 
 - **Image**
 <br>
-<img src="https://www.galeria-alea.com/wp-content/uploads/2018/11/30-E-mc2-674x1011.jpg"  align="right" width="200"/>
+<img src="https://www.galeria-alea.com/wp-content/uploads/2018/11/30-E-mc2-674x1011.jpg"  align="right" width="100"/>
 <p align="center"> If I had an hour to solve a problem  <br>
 I'd spend 55 minutes ” <br>
 thinking about the problem <br>
