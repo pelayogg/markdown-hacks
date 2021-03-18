@@ -1,11 +1,75 @@
-# markdown-hacks
-
+<h1 align="center"> Markdown-Hacks</h1>
 :arrow_right: Find below the best markdown hacks to write the most impresive README.md ever seen
 
-<img src="https://github.com/matiassingers/awesome-readme/blob/master/icon.png" align="right" />
-Text align with an image
+<h2 align="center"> Basics </h2>
 
-# Emojis
+# TITLE 1
+## TITLE 2
+### TITLE 3
+### TITLE 4
+
+**bold** and also __bold__
+
+*italic* and also _italic_
+
+~~Strikethrough ~~
+
+**bold with *italic* inside**
+
+***all together bold and itali***
+
+> quoting text
+> 
+`quoting code`
+
+```quoting text or code in a new block```
+
+This is an example on how to use [links](https://pages.github.com/)
+
+- I am an element of a list
+- Me too
+
+1. I am an element of an order list
+2. Me too
+
+- I am at first level of a list
+  - I am at second level 
+    - I am at third level
+
+- [x] I am an element of a checklist and I am already done
+- [ ] I am an element of a checklist and I am not done
+
+This is how to \*scape\* markdown
+
+#### HACK #1 A L I G N M E N T 
+
+- **Image**
+<br>
+<img src="https://www.galeria-alea.com/wp-content/uploads/2018/11/30-E-mc2-674x1011.jpg"  align="right" width="200"/>
+<p align="center"> If I had an hour to solve a problem  <br>
+I'd spend 55 minutes ” <br>
+thinking about the problem <br>
+and 5 minutes  <br>
+thinking about solutions <br>
+<em>Albert Einstein</em> </p>
+
+- **Plain Text**
+
+<p align="center">Text</p> 
+
+- **Headings**
+
+<h1 align="left">Heading</h1>
+
+<h2 align="center">Heading</h2>
+
+<h3 align="right">Heading</h3>
+
+<h4 align="center">Heading</h4>
+
+<h5 align="left">Heading</h5>
+
+# HACK #2 Emojis
 ## People
 
 :bowtie:
