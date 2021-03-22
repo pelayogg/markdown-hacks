@@ -12,7 +12,7 @@
 
 *italic* and also _italic_
 
-~~Strikethrough ~~
+~~Strikethrough~~
 
 **bold with *italic* inside**
 
